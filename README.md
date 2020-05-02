@@ -1,6 +1,6 @@
 # Masakhane Message Board
 
-This is an experiment in being able to view the "small" community todos or requests for help, opening up communities ability to build together.
+This is an experiment in being able to view the "small" community todos or requests for help, opening up communities ability to build together. If you're interested in starting a BIG initiative that needs help on, then we recommend adding it to our [meeting agenda](https://github.com/masakhane-io/weekly-meeting-agenda) instead. 
 
 ## How this works?
 
