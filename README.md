@@ -9,6 +9,13 @@ Search our open issues to find if someone has the same problem.
 - If you find someone else, vote on that task with :+1:. This lets us know that this is something people should pick up!
 - If you're working on something and need help with it, create a new issue from one of our templates. 
 
+Tasks include (but are not limited to):
+- Helping run code or getting started
+- Helping find others working on same language/task as you
+- Help needed in data annotation and creation
+- Help needed for documentation
+- Help required in understand how an algorithm works
+
 ### Want to help communities?
 
 - Scan our list of open issues. To understand each issues priorities, look how many upvotes the tasks have and feel free to ask questions or self-assign
