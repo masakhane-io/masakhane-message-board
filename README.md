@@ -16,6 +16,8 @@ Tasks include (but are not limited to):
 - Help needed for documentation
 - Help required in understand how an algorithm works
 
+An [example](https://github.com/masakhane-io/message-board)
+
 ### Want to help communities?
 
 - Scan our list of open issues. To understand each issues priorities, look how many upvotes the tasks have and feel free to ask questions or self-assign
