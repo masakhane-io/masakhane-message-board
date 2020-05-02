@@ -1,2 +1,29 @@
-# message-board
-A place where we can view the "small" community todos or requests for help, opening up people's ability to help
+# Masakhane Message Board
+
+This is an experiment in being able to view the "small" community todos or requests for help, opening up communities ability to build together.
+
+## How this works?
+
+### Have a task you require assistance with?
+Search our open issues to find if someone has the same problem. 
+- If you find someone else, vote on that task with :+1:. This lets us know that this is something people should pick up!
+- If you're working on something and need help with it, create a new issue from one of our templates. 
+
+### Want to help communities?
+
+- Scan our list of open issues. To understand each issues priorities, look how many upvotes the tasks have and feel free to ask questions or self-assign
+- We also appreciate help with admin, help us label our bugs and tasks with their context of priority! 
+
+## A guide on creating a new issue
+
+We're putting together some templates for the issues, in the meantime, let's keep it simple:
+
+- Title:
+- Description:
+- Preferred contact place: (via github/slack/email etc)
+
+We have created some tags for you to label your issue with, so please label your task with the relevant things! 
+
+## Code of Conduct
+
+See [Code of Conduct](https://github.com/masakhane-io/masakhane/blob/master/CODE_OF_CONDUCT.md)
